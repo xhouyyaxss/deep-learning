@@ -31,3 +31,5 @@ git fetch origin <分支名>: <分支名>
 合并分支
 基于master创建了一个dev分支，基于dev创建了一个test分支，如果要合并，先git checkout dev，再git merge test(在dev分支上将test分支合并到dev上)
 githubtoken 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
+这是新的txt
+
